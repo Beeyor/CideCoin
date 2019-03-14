@@ -1,0 +1,2 @@
+# CideCoin
+Stable Coin
